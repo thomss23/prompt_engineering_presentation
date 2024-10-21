@@ -1,0 +1,6 @@
+Take the last letters of the sentence "lady gaga is a musician as well as an actress" and concatenate them.
+
+Correct answer: yasanslsns
+
+Take the last letters of the word "lady gaga is a musician as well as an actress" and concatenate them.
+Go step by step when processing then output the answer within <answer>{your_answer}</answer>

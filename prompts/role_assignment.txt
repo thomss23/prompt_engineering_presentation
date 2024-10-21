@@ -1,0 +1,5 @@
+# initial prompt
+Write a review of Jerry's Pizza in Romania in one paragraph.
+
+#with role assignment
+You are a food critic. Write a review of Jerry's Pizza in Romania in one paragraph.

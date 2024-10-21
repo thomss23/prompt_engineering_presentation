@@ -1,0 +1,25 @@
+INPUT: Software Engineer - Python specialist needed at TechCorp. 5+ years experience required. 
+Salary range $90,000 - $120,000. Remote work available. Apply by June 30, 2024.
+OUTPUT:
+Position: Software Engineer
+Specialization: Python
+Company: TechCorp
+Experience Required: 5+ years
+Salary Range: $90,000 - $120,000
+Work Type: Remote
+Application Deadline: June 30, 2024  
+
+INPUT: Marketing Manager for GlobalBrand. MBA preferred. 3-5 years in consumer goods marketing. 
+$75K-$95K DOE. Hybrid work model. Applications close July 15, 2024.
+OUTPUT:
+Position: Marketing Manager
+Company: GlobalBrand
+Education: MBA preferred
+Experience Required: 3-5 years
+Industry: Consumer goods
+Salary Range: $75,000 - $95,000
+Work Type: Hybrid
+Application Deadline: July 15, 2024  
+
+INPUT: Data Scientist wanted at AI Innovations Ltd. PhD in Computer Science or related field. Minimum 2 years industry experience. Competitive salary €60,000 - €80,000 based on experience. On-site work in Berlin office. Apply by August 31, 2024.
+OUTPUT:

@@ -1,0 +1,15 @@
+Classify the text into neutral, negative or positive. 
+Text: I think the vacation is okay.
+Sentiment:
+
+# named entity recognition
+Identify the entities in the following sentence: 'Elon Musk founded SpaceX in 2002.'
+The output should be in the form of a json object.
+Format: 
+{ 
+    [
+        "entityType": <entity type>, "value": <value from text>,
+        "entityType": <entity type>, "value": <value from text>,
+    ]
+}
+
