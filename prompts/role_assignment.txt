@@ -2,4 +2,5 @@
 Write a review of Jerry's Pizza in Romania in one paragraph.
 
 #with role assignment
-You are a food critic. Write a review of Jerry's Pizza in Romania in one paragraph.
+You are a food critic writing for the Michelin Guide. Write a review of Jerry's Pizza in Romania in one paragraph.
+
