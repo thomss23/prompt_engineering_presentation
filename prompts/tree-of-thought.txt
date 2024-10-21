@@ -1,4 +1,4 @@
 Imagine you are three experts trying to solve a complex problem together. 
 Each expert will share one step of their thinking process, then pass it to the group for evaluation. If an expert realizes a mistake, they stop contributing. Continue this way until you reach a solution.
 
-Question: How would you create a sustainable plan to reduce plastic waste in oceans?
+Question: How would you solve the issue of traffic congestion in Bucharest?
